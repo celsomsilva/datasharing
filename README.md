@@ -23,12 +23,14 @@ The goal is to show the effectiveness of **nonlinear multilevel approaches** in 
 
 This repository is a **work-in-progress**. Current focus:  
 - Organizing and documenting code, datasets, and figures  
-- Translating thesis sections (Portuguese → English)  
+- Translating thesis sections (**Portuguese → English**)  
 
 Planned:  
 - Publishing all code and documents in this repository  
-- Extending comparisons with **Deep Learning**  
 - A parallel version with **analytics & storytelling**  
+- Extending comparisons with **Deep Learning**  
+- Building a **statistical bridge** between hierarchical models (HLM/GLMM) and modern machine learning / deep learning approaches — which resonates with the original purpose of this repository: to share and connect statistical thinking with data science practice.  
+
 
 ---
 
@@ -86,8 +88,14 @@ walmart-sales-hlm3/
 ---
 
 ## Documentation
-- [`docs/TCC_REVISADO.pdf`](docs/TCC_REVISADO.pdf) – Final thesis (Portuguese).  
-- [`docs/Apresentacao.pdf`](docs/Apresentacao.pdf) – Defense presentation slides (Portuguese).  
+
+- [`docs/pt/TCC_REVISADO.pdf`](docs/pt/TCC_REVISADO.pdf) – Final thesis *(in Portuguese)*  
+- [`docs/pt/Apresentacao.pdf`](docs/pt/Apresentacao.pdf) – Defense presentation slides *(in Portuguese)*  
+
+*(Coming soon: English versions)*  
+- [`docs/en/Thesis_final.pdf`](docs/en/Thesis_final.pdf) – Final thesis *(in English)*  
+- [`docs/en/Presentation.pdf`](docs/en/Presentation.pdf) – Defense presentation slides *(in English)*
+
 - [`docs/images/`](docs/images/) – Figures used in thesis.  
 
 ---
@@ -114,7 +122,7 @@ Focus areas:
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/celso-m-silva)  
-- Or open an [issue](https://github.com/celsomsilva/thesis-data-science-usp/issues)  
+- Or open an [issue](https://github.com/celsomsilva/datasharing/issues)  
 
 ---
 
