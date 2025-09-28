@@ -126,6 +126,13 @@ Focus areas:
 
 ---
 
+## License
+
+- The source code in this repository is licensed under the [MIT License](./LICENSE).
+- The thesis document is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](./LICENSE-thesis.txt).
+
+---
+
 ## Original Note from Jeff Leek’s Repository
 
 This repository was originally created by **Jeff Leek (Johns Hopkins University)** to share resources on **data sharing, reproducibility, and collaboration**.  
